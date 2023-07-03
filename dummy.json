@@ -1,0 +1,23 @@
+{
+  "sonarlint.connectedModel.connnections.sonarqube": [
+    {
+      "connectionId": "sonar",
+      "serverUrl": "https://sonar.cs.gcp.srse.net",
+      "token": "7dc5c0978d604f1165c2402a75d0f26da37984d5"
+    }
+  ],
+  "sonarlint.pathToNodeExecutable": "C:\\Program Files\\nodejs\\node.exe",
+
+  "sonarlint.connectedMode.project": {
+    "connectionId": "sonar",
+    "projectKey": "sunrise.utility.ms:sunrise-utility-ms"
+  },
+  "http.proxySupport": "on",
+  "http.proxy": "htttp://pacserver.swi.srse.net/proxyironportlb.pac",
+  "sonarlint.ls.vmargs": "-Djavax.net.ssl.trustStore=C:\\Tools\\jdk-17.0.5\\lib\\security\\cacerts",
+  "sonarlint.ls.javaHome": "C:\\Tools\\jdk-17.05",
+  "sonarlint.output.showAnalyzerLogs": true,
+  "sonarlint.output.showVerboseLogs": true,
+  "editor.lightbulb.enabled": true,
+  "sonarlint.rules": {}
+}
